@@ -4,6 +4,8 @@ This repo contains my scripts for TF2 and a copy of my autoexec file. The best b
 to hide only primary weapon viewmodels, a bind to vote for the next map when it's bugged and quick shortcuts for
 common engie and spy things.
 
+https://ko-fi.com/squidfysh (not required at all, but much appreciated).
+
 ## Installation
 To install the scripts, paste each file into the TF2 cfg folder in your Steam installation folder:
 %steam install folder%\steamapps\common\Team Fortress 2\tf\cfg
