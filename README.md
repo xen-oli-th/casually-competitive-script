@@ -27,6 +27,7 @@ This script adds a few significant features:
 - UP ARROW = toggle a script that hides your primary weapon's viewmodel only (for spy it hides when you shoot)
   - ^ Compatible with using 1-5 for switching weapons!
 - HOME = hud_reloadscheme
+- END = set up tr_walkway (sv_cheats 1 & sv_allow_point_servercommand always)
 - 7, 8, 9, 0 select loadouts 1-4 when CTRL is held
 - Holding CTRL while pressing E asks for uber (masks uber when on medic)
 - Holding CTRL while pressing z, x or c votes for the corresponding map, even when it's bugged
@@ -36,3 +37,9 @@ This script adds a few significant features:
 - MIDDLE MOUSE BUTTON to instantly replace your sentry on engie
 - NUM PAD to instantly diguise as the corresponding class on spy (hold CTRL for friendly disguises and CAPS to switch class)
 - MIDDLE MOUSE BUTTON to reuse last disguise/change disguise weapon on spy
+
+## Known Issues
+- When enabling invisible primary viewmodels, you need to reselect your primary weapon for it to take effect
+- While dead as the spy with invisible primary viewmodels enabled and your primary weapon selected you cannot
+cycle between spectated players
+  - To fix this; simply select your melee or secondary weapon (while dead, it still works)
