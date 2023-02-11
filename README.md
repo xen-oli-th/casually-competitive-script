@@ -1,5 +1,5 @@
 # Casually Competitive v1.0
-## Script for TF2 by Squidfysh
+## TF2 Script by Squidfysh
 
 This repo contains my scripts for TF2 and a copy of my autoexec file. The best bits include a togglable script
 to hide only primary weapon viewmodels, a bind to vote for the next map when it's bugged and quick shortcuts for
@@ -10,10 +10,10 @@ The scripts are quite easily modifiable as almost every key is only bound in one
 If your keyboard doesn't have a NUMPAD, the quick class changing, quick spy disguising and "technical" things
 (eg. hud_reloadscheme) wont be avaliable to you.
 
-https://ko-fi.com/squidfysh (not required at all, but much appreciated).
+https://ko-fi.com/squidfysh (not required, but much appreciated).
 
 ## Installation
-The zip folder contains all script files, including the default ones.
+The [zip folder](https://github.com/Squidfysh/casually-competitive-script/blob/main/casually-competitive-v1.0.zip) contains all script files, including the default ones.
 
 To install the scripts, paste each cfg file into the TF2 cfg folder in your Steam installation folder:
 %steam install folder%\steamapps\common\Team Fortress 2\tf\cfg
@@ -48,7 +48,7 @@ that it may not function properly if only some scripts are used (toggles for eng
 
 ### Toggle Invis Primary Viewmodels
 - UP ARROW = toggle a script that **hides your primary weapon's viewmodel** only (for spy it hides when you shoot)
-  - ^ Compatible with using 1-5 for switching weapons!
+  - Compatible with using 1-5 for switching weapons!
   - Primary viewmodel for spy returns when cloaking
 
 ### Technical
