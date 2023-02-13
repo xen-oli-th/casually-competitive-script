@@ -1,4 +1,4 @@
-# Casually Competitive v1.0
+# Casually Competitive v1.0.1
 ## TF2 Script by Squidfysh
 
 This repo contains my scripts for TF2 and a copy of my autoexec file. The best bits include a togglable script
@@ -13,7 +13,7 @@ If your keyboard doesn't have a NUMPAD, the quick class changing, quick spy disg
 https://ko-fi.com/squidfysh (not required, but much appreciated).
 
 ## Installation
-The [zip folder](https://github.com/Squidfysh/casually-competitive-script/blob/main/casually-competitive-v1.0.zip) contains all script files, including the default ones.
+The [zip folder](https://github.com/Squidfysh/casually-competitive-script/blob/main/casually-competitive-v1.0.1.zip) contains all script files, including the default ones.
 
 To install the scripts, paste each cfg file into the TF2 cfg folder in your Steam installation folder:
 %steam install folder%\steamapps\common\Team Fortress 2\tf\cfg
@@ -65,3 +65,7 @@ cycle between spectated players
 ## To-Do List
 - Add toggleable script to unbind the scoreboard (for when you care too much about the stats)
 - Add toggleable script to disable the voice and text chat (for when some asshole is ruining the game or you wanna stream)
+
+## Version History
+### v1.0.1
+- Fixed class quickswitch not rebinding after playing spy
