@@ -65,6 +65,7 @@ cycle between spectated players
 ## To-Do List
 - Add toggleable script to unbind the scoreboard (for when you care too much about the stats)
 - Add toggleable script to disable the voice and text chat (for when some asshole is ruining the game or you wanna stream)
+- Fix Engie's weapons being invisible after placing a building
 
 ## Version History
 ### v1.0.1
